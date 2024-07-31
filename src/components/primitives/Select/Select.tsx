@@ -175,7 +175,7 @@ const Select = (
     />
   );
 
-  return Platform.OS === 'android' || Platform.OS === 'ios' ? (
+  return Platform.OS === 'android' || Platform.OS === 'ios' || Platform.OS === 'harmony' ? (
     <>
       <Pressable
         onPress={() => {
