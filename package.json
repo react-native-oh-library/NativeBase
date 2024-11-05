@@ -1,5 +1,5 @@
 {
-  "name": "react-native-oh-tpl-native-base",
+  "name": "@react-native-oh-tpl/native-base",
   "description": "Essential cross-platform UI components for React Native",
   "sideEffects": false,
   "keywords": [
