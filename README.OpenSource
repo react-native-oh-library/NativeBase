@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "native-base",
+        "License": "MIT License",
+        "License File": "https://github.com/GeekyAnts/NativeBase/blob/master/LICENSE",
+        "Version Number": "3.4.28-0.0.2",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/react-native-oh-library/NativeBase",
+        "Description": "Essential cross-platform UI components for React Native"
+    }
+]
